@@ -63,7 +63,7 @@ export const Footer = () => {
                   <div className="h-10 w-10 rounded-xl bg-white/5 flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-all">
                     <Mail size={18} />
                   </div>
-                  <span className="group-hover:text-white transition-colors">support@rupyou.com</span>
+                  <span className="group-hover:text-white transition-colors">info.rupyou@gmail.com</span>
                 </li>
                 <li className="flex items-center space-x-4 group cursor-pointer">
                   <div className="h-10 w-10 rounded-xl bg-white/5 flex items-center justify-center text-primary group-hover:bg-primary group-hover:text-white transition-all">
@@ -76,7 +76,7 @@ export const Footer = () => {
             <div className="p-6 rounded-[2rem] bg-white/5 border border-white/5 backdrop-blur-3xl">
               <p className="text-[10px] font-black text-slate-500 uppercase tracking-widest mb-2">Corporate Office</p>
               <p className="text-sm font-bold text-white leading-relaxed">
-                Level 12, Cyber City, Phase III, <br /> Gurugram, Haryana - 122002
+                Parasram Nagar, Dher ke Balaji, Sikar Road, <br /> Jaipur, Rajasthan - 302039
               </p>
             </div>
           </div>
