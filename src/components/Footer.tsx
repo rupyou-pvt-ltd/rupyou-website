@@ -76,7 +76,7 @@ export const Footer = () => {
             <div className="p-6 rounded-[2rem] bg-white/5 border border-white/5 backdrop-blur-3xl">
               <p className="text-[10px] font-black text-slate-500 uppercase tracking-widest mb-2">Corporate Office</p>
               <p className="text-sm font-bold text-white leading-relaxed">
-                Parasram Nagar, Dher ke Balaji, Sikar Road, <br /> Jaipur, Rajasthan - 302039
+                Parasram Nagar, Sikar Road, <br /> Jaipur, Rajasthan - 302039
               </p>
             </div>
           </div>
