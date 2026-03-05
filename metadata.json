@@ -1,0 +1,9 @@
+{
+  "name": "Rupyou",
+  "description": "Fintech-grade digital credit origination and distribution platform connecting borrowers, connectors, and financial institutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
